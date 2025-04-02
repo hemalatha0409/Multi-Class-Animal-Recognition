@@ -1,7 +1,7 @@
-# Multi-Class Animal Classification
+# Multi-Class Animal Recognition
 
 ## Overview
-This project implements a **multi-class animal classification model** using deep learning techniques. The model is trained to classify images of different animal species using a convolutional neural network (CNN).
+This project implements a **multi-class animal recognition model** using deep learning techniques. The model is trained to classify images of different animal species using a convolutional neural network (CNN).
 
 ## Dataset
 The dataset consists of labeled images of multiple animal species. The dataset is preprocessed and augmented before being fed into the model.
@@ -46,7 +46,7 @@ The dataset consists of labeled images of multiple animal species. The dataset i
 ## Model Training
 Run the Jupyter Notebook to train the model:
 ```bash
-jupyter notebook Multi_Class_Animal_Classification.ipynb
+jupyter notebook Multi_Class_Animal_Recognition.ipynb
 ```
 
 ## Evaluation
